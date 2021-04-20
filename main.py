@@ -14,7 +14,7 @@ str = "Vazgen"
 print( len(str))
 
 # task 3
-p=14
+p = 14
 prime = False
 if p == 2:
     prime = True
